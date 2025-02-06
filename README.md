@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm Noah
 <h3 align="center">Learning more about Python, Java, React & Web Development.</h3>
 
-<h2>My Trophies</h2>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noagonzale38&theme=onedark" alt="noagonzale38" /></a> </p>
 
 
 - 🔭 I’m currently working on **School/Personal projects including FIRST Robotics.**
